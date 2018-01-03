@@ -1,6 +1,6 @@
 # _my-first-webpage_
 
-#### _webpage created to learn basic html concepts, _01.03.18_
+#### _webpage created to learn basic html concepts, 01.03.18_
 
 #### By _**Sara Hamilton, Stephanie Faber**_
 
